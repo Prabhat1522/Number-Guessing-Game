@@ -63,7 +63,7 @@ Number-Guessing-Game
 
 Clone the repository
 
-git clone https://github.com/your-username/number-guessing-game.git
+git clone [https://github.com/your-username/number-guessing-game.git](https://github.com/Prabhat1522/Number-Guessing-Game.git)
 
 Open the project folder.
 
